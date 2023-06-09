@@ -1,6 +1,6 @@
 | Code credits | Link |
 | ----------- | ---- |
-| 🎉 Repository | [![GitHub Repository](https://img.shields.io/github/stars/riffusion/riffusion?style=social)](https://github.com/riffusion/riffusion) |
+| 🎉 Riffusion Repository | [![GitHub Repository](https://img.shields.io/github/stars/riffusion/riffusion?style=social)](https://github.com/riffusion/riffusion) |
 | Original Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FhH3HlN8Ps_Pr9OR6Qcfbfz7utDvICl0?usp=sharing) |
 |  Notebook by amrrs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amrrs/ai-music-video) |
 | 🚀 Online inference | [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/fffiloni/spectrogram-to-music) |
